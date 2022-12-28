@@ -9,7 +9,6 @@
             "cwd": "${workspaceFolder}",
             "type": "reactnative",
             "request": "attach",
-            "isDynamic": true,
             "port": 19001
         }
     ]
